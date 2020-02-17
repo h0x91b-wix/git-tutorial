@@ -6,7 +6,7 @@ resource "multiverse_custom_resource" "test_node" {
     id_key = "ID"
     data = <<JSON
 {
-    "foo": "bar0",
+    "foo": "bar1",
     "bar": "baz"
 }
 JSON
