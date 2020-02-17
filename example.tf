@@ -18,7 +18,7 @@ resource "multiverse_custom_resource" "test_bash" {
     id_key = "ID"
     data = <<JSON
 {
-    "foo": "bar11",
+    "foo": "bar3",
     "bar": "baz"
 }
 JSON
